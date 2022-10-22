@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arcanum&#39;s Archives</title>
-    <link>http://example.org/</link>
+    <link>https://arcanumsarchives.github.io/website/</link>
     <description>Recent content on Arcanum&#39;s Archives</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Oct 2022 20:05:17 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 20:05:17 -0500</lastBuildDate><atom:link href="https://arcanumsarchives.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
-      <link>http://example.org/posts/test-post/</link>
+      <link>https://arcanumsarchives.github.io/website/posts/test-post/</link>
       <pubDate>Fri, 21 Oct 2022 20:05:17 -0500</pubDate>
       
-      <guid>http://example.org/posts/test-post/</guid>
+      <guid>https://arcanumsarchives.github.io/website/posts/test-post/</guid>
       <description>new subtitle new content</description>
     </item>
     
