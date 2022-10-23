@@ -1,3 +1,8 @@
+---
+Title: First Post!
+---
+
+
 Arcanum's Archives New Site
 
 Hello and welcome!
