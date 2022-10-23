@@ -7,5 +7,5 @@ cascade:
   featured_image: '/images/arcanum_background.jpg'
 ---
 
-Archives of the arcanum
+Archives of the arcanum1
 
