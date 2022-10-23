@@ -7,7 +7,7 @@ cascade:
   featured_image: '/images/arcanum_background.jpg'
 
   navigation:
-  - {file: "home.md", title: Home, icon: home}
+  - {file: "home.html", title: Home, icon: home}
 ---
 
 Archives of the arcanum
