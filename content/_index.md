@@ -1,6 +1,6 @@
 ---
 title: "Arcanum's Archives"
-background: black
+background_color: black
 
 
 cascade:
