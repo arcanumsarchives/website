@@ -37,5 +37,14 @@ This is our new site, and its in progress, as you can see.
 the end!</description>
     </item>
     
+    <item>
+      <title>Test</title>
+      <link>https://arcanumsarchives.github.io/website/posts/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arcanumsarchives.github.io/website/posts/home/</guid>
+      <description>Test</description>
+    </item>
+    
   </channel>
 </rss>
