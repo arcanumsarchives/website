@@ -6,6 +6,11 @@ background_color: white
 cascade:
   featured_image: '/images/arcanum_background.jpg'
 
+  navbar:
+  left:
+    - text: "Home"
+      href: index.html
+
   navigation:
   - {file: "home.html", title: Home, icon: home}
 ---
