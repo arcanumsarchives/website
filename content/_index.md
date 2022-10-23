@@ -15,5 +15,5 @@ cascade:
   - {file: "home.html", title: Home, icon: home}
 ---
 
-Archives of the arcanum2
+Archives of the arcanum3
 
